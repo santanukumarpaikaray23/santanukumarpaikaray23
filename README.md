@@ -29,33 +29,9 @@
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/pl/js.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/pl/ts.png" height="30"></code>
 
-### Web Development (Full-stack):
 
-#### Backend/Server:
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/backend/j2ee.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/backend/jsp.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/backend/servlet.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/backend/spring-1.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/backend/spring-boot.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/backend/hibernate.jpeg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/security/security.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/security/ldap.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/security/jwt.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/security/oauth.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/backend/tomcat.jpg" height="30"></code>
 
-#### •Micro-Services:
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/rest.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/rx.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/webflux.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/kafka.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/graphql.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/elastic.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/eureka.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/zuul.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/hystrix.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/seluth.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ms/zipkin.png" height="30"></code>
+
 
 #### •Frontend/UI:
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/html.png" height="30"></code>
