@@ -37,51 +37,26 @@
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/html.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/css.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/bt.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/thymeleaf.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/angular.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/jq.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/redux.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/ajax.png" height="30"></code>
-
+<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/react.jpg" height="30"></code>
 #### •Database:
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/mysql1.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/oracle.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/mssql.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/mongo.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/dy.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/cas.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/redis.png" height="30"></code>
-
-### Cloud/Dev-Ops:
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/cloud/aws.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/cloud/lambda.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/cloud/s3.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/cloud/maven.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/cloud/git.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/cloud/github.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/cloud/docker.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/cloud/ku.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/cloud/jenkins.jpg" height="30"></code>
-
 ### Others:
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/other/ott.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/other/agile.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/other/jira.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/other/bitmovin.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/other/kaltura.png" height="30"></code>
+
 
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| SDE Intern | [@Bajaj Finserv Health](https://www.bajajfinservhealth.in/) | Sep 2020 - Present |
-| Assistant Software Engineer | [@HoiChoi.tv](https://www.hoichoi.tv/) | May 2020 - Sep 2020 |
-| Technical Instructor | [@NiiT (Kolkata)](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-java-web-activity-6619275621568737280-dpDR) | Nov 2019 - May 2020 |
-| Java Developer-Trainee | [@InvigorateCloud](https://invigoratecloud.com/) | Aug 2019 - Apr 2020 |
-| Technical Instructor | [@Team-Cognito](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-summertraining-webapplicationdevelopment-activity-6552178927043997696-FhR3) | May 2019 - July 2020 |
-| J2EE Web Developer Intern | [@Pro-Ace (USA)](https://lightningspeedmatchmaker.com/#our-team) | Jan 2019 - Apr 2019 |
-| J2EE Web Developer Intern | [@Aim-India](http://www.aimindia.org.in) | Nov 2018 - Dev 2018 |
-| Software Developer Intern | [@Team-Cognito]() | Aug 2018 - Oct 2018 |
+
+|Angular Developer | [@Dixit Infotech Services pvt. Ltd.] | Aug 2019-july2020 |
 
 <h3>Most Popular Open-Source Repositories🔺👑</h3>
 <table>
