@@ -58,22 +58,6 @@
 
 |Angular Developer | [@Dixit Infotech Services pvt. Ltd.] | Aug 2019-july2020 |
 
-<h3>Most Popular Open-Source Repositories🔺👑</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-	 <td><b>🛎 Issues</b></td>
-    </tr>
-  </thead>
-  <tbody>
- #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=Mr-PerFectt&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<img src="https://gpvc.arturio.dev/Mr-PerFectt" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mr-PerFectt?style=social"/> 
-
-<!--- 
 <p   align="center" >
 <a href="https://www.buymeacoffee.com/soumyadip" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>--->
