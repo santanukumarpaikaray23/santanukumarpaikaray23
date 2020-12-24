@@ -4,7 +4,7 @@
 <!--
 [![HitCount](http://hits.dwyl.com/Mr-PerFectt/Mr-PerFectt.svg)](http://hits.dwyl.com/Mr-PerFectt/Mr-PerFectt)
 <b>- Platform:</b>
-# Hi, I'm Santanu Kumar Paikaray 👋:man_technologist:
+# Hi, I'm👋:man_technologist:
 ### Platform
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/platform/linux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/platform/windows.jpg" height="30"></code>
