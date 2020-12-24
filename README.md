@@ -1,14 +1,10 @@
 ﻿
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+<h1 align="center"> Welcome to my GitHub 👨‍💻❤️</h1>
   
 <!--
 [![HitCount](http://hits.dwyl.com/Mr-PerFectt/Mr-PerFectt.svg)](http://hits.dwyl.com/Mr-PerFectt/Mr-PerFectt)
 <b>- Platform:</b>
-# Hi, I'm Soumyadip 👋:man_technologist:
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
+# Hi, I'm Santanu Kumar Paikaray 👋:man_technologist:
 ### Platform
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/platform/linux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/platform/windows.jpg" height="30"></code>
@@ -16,7 +12,7 @@
 
 <!--<img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/frame.jpg" > -->
 <p align="center">
-<a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/t.jpg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/PaikaraySantanu"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/soumyadip-chowdhury/"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/l.png"></a>&nbsp;&nbsp;
 <a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/Yt.png"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@iamsoumyadip"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/mm.png"></a>&nbsp;&nbsp;
