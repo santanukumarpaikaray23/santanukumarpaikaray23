@@ -69,30 +69,7 @@
     </tr>
   </thead>
   <tbody>
- 
-
-## Achivements 🏆🏅🎉
-  <ul>
-    <li><a href="https://twitter.com/s_oumyadip/status/1246899031327920130" />1st Prize In Hackathon (UEMK,2019)</a></li>
-   <li><a href="https://www.linkedin.com/posts/soumyadip-chowdhury_hackathon-appmania-bppimt-activity-6548197270330929152-NkK4" />1st Prize In Hackathon (BPPIMT,2019)</a></li>
-   <li><a href="https://twitter.com/s_oumyadip/status/1246899749287948288" />3rd Prize in Project Competition (UEMK, 2019)</a></li>
-     <li><a href="https://www.linkedin.com/posts/soumyadip-chowdhury_haktoberfest2019-hacktoberfest2019-digitalocean-activity-6593966104467599360-unkY" />Digital Ocean Hacktober Fest Qualified (2019)</a></li>
-       <li><a href="https://www.linkedin.com/posts/soumyadip-chowdhury_technorion-iitbombay-techfest-activity-6583805124882325504-6he2" />3rd In Co-Decode TechnoRion (Coding Competition, IIT-Bombay, 2019)</a></li>
-   <li><a href="https://twitter.com/s_oumyadip/status/1288160643225280513" />1st Top Most Active Github User In INDIA (2020, By Commits.Top)
-<li><a href="https://www.linkedin.com/posts/soumyadip-chowdhury_beta-msp-mspabrgold-activity-6659703773394546694-GKGQ" />Microsoft Beta Student Partner Among 700 MSP In INDIA (2019-21)</a></li>
-  <li><a href="#" />Developer Student Club, University Lead (2020-21)</a></li>
-  
-  </ul>
-  
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mr-PerFectt&column=7&hide=PullRequest"/>
-  </a>
-</div>
-
-
-#### Overall profile stats
+ #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=Mr-PerFectt&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 <img src="https://gpvc.arturio.dev/Mr-PerFectt" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mr-PerFectt?style=social"/> 
