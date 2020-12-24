@@ -45,7 +45,7 @@
 
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/mongo.png" height="30"></code>
 ### Others:
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/other/ott.png" height="30"></code>
+
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/other/agile.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/other/jira.png" height="30"></code>
 
