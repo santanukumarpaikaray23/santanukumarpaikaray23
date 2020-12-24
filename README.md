@@ -39,7 +39,7 @@
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/bt.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/angular.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/jq.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/react.jpg" height="30"></code>
+
 #### •Database:
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/mysql1.png" height="30"></code>
 
