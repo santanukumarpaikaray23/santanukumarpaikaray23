@@ -42,7 +42,7 @@
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/web/ui/react.jpg" height="30"></code>
 #### •Database:
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/mysql1.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/mssql.png" height="30"></code>
+
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/db/mongo.png" height="30"></code>
 ### Others:
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/other/ott.png" height="30"></code>
@@ -69,58 +69,7 @@
     </tr>
   </thead>
   <tbody>
-  <tr>
-	    <td><a href="https://github.com/Mr-PerFectt/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software"><b>Java-JavaFx-Swing Projects</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mr-PerFectt/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software?style=flat-round&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mr-PerFectt/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software?style=flat-round&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Mr-PerFectt/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software?style=flat-round&labelColor=343b41"/></td>
-     </tr>
-	 <tr>
-	    <td><a href="https://github.com/Mr-PerFectt/Introduction-to-Python"><b>Introduction to Python</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mr-PerFectt/Introduction-to-Python?style=flat-round&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mr-PerFectt/Introduction-to-Python?style=flat-round&labelColor=343b41"/></td>
- <td><img alt="Issues" src="https://img.shields.io/github/issues/Mr-PerFectt/Introduction-to-Python?style=flat-round&labelColor=343b41"/></td>    </tr>
-	  	 <tr>
-	    <td><a href="https://github.com/Mr-PerFectt/Object-Oriented-Programming-Using-Python"><b>Object Oriented Programming</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mr-PerFectt/Object-Oriented-Programming-Using-Python?style=flat-round&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mr-PerFectt/Object-Oriented-Programming-Using-Python?style=flat-round&labelColor=343b41"/></td>
- <td><img alt="Issues" src="https://img.shields.io/github/issues/Mr-PerFectt/Object-Oriented-Programming-Using-Python?style=flat-round&labelColor=343b41"/></td>    </tr>
- <tr>
-	  <tr>
-	    <td><a href="https://github.com/Mr-PerFectt/Data-Structure-and-Algorithm-Using-Python"><b>Data Structrue</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mr-PerFectt/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mr-PerFectt/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>
- <td><img alt="Issues" src="https://img.shields.io/github/issues/Mr-PerFectt/Data-Structure-and-Algorithm-Using-Python?style=flat-round&labelColor=343b41"/></td>    </tr>
- 	  <tr>
-	    <td><a href="https://github.com/Mr-PerFectt/Console-Based-Projects-C"><b>Console Based Project C</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mr-PerFectt/Console-Based-Projects-C?style=flat-round&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mr-PerFectt/Console-Based-Projects-C?style=flat-round&labelColor=343b41"/></td>
- <td><img alt="Issues" src="https://img.shields.io/github/issues/Mr-PerFectt/Console-Based-Projects-C?style=flat-round&labelColor=343b41"/></td>    </tr>
- 		 <tr>
-	    <td><a href="https://github.com/Mr-PerFectt/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL"><b>E Medical System-Spring Boot</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mr-PerFectt/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL?style=flat-round&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mr-PerFectt/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL?style=flat-round&labelColor=343b41"/></td>
- <td><img alt="Issues" src="https://img.shields.io/github/issues/Mr-PerFectt/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL?style=flat-round&labelColor=343b41"/></td>    </tr>
-	   <tr>
-	    <td><a href="https://github.com/Mr-PerFectt/DBJ.jar"><b>DBJ.jar Library</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Mr-PerFectt/DBJ.jar?style=flat-round&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Mr-PerFectt/DBJ.jar?style=flat-round&labelColor=343b41"/></td>
- <td><img alt="Issues" src="https://img.shields.io/github/issues/Mr-PerFectt/DBJ.jar?style=flat-round&labelColor=343b41"/></td>    </tr>
-
  
- 
-  </tbody>	 
-</table>
-
-
-## Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
-  <ul>
-    <li><a href="https://medium.com/@iamsoumyadip/blockchain-future-of-web-3-0-3efe6f234f4a" />Blockchain & future of Web 3.0</a></li>
-   <li><a href="https://medium.com/@iamsoumyadip/a-decentralized-system-to-rescue-victims-from-natural-and-man-made-post-disasters-through-dtn-8a3faee687b8" />A decentralized system to rescue victims from post disasters through DTN</a></li>
-   <li><a href="https://medium.com/@iamsoumyadip/a-tri-folded-intelligent-system-to-pre-monitor-and-predict-a-tsunami-flood-and-earthquake-based-b92961094b32" />A tri-folded Intelligent System to pre-monitor and predict Disaster</a></li>
-      <li><a href="https://medium.com/@iamsoumyadip/design-an-enterprise-service-rest-api-with-mvc-binding-using-java-spring-boot-jpa-hibernate-db56108e7830" />Design an Enterprise Service Spring Boot with Microservices, Kafka, GraphQL, ElasticSearch</a></li>
-  </ul>
-<p><a href="https://medium.com/@iamsoumyadip">➡️ More blog posts</a></p>
 
 ## Achivements 🏆🏅🎉
   <ul>
