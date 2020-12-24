@@ -14,7 +14,7 @@
 <code><img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/platform/windows.jpg" height="30"></code>
 <img src="https://gpvc.arturio.dev/Mr-PerFectt" alt="profile views"/> (https://visitor-badge.glitch.me/badge?page_id=Mr-PerFectt.Mr-PerFectt --->
 
-<img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/frame.jpg" >
+<!--<img src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/frame.jpg" > -->
 <p align="center">
 <a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/soumyadip-chowdhury/"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/l.png"></a>&nbsp;&nbsp;
