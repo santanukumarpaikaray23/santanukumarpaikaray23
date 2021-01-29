@@ -57,6 +57,6 @@
 | :-: | :-: | :-: |
 
 |Angular Developer | [@Dixit Infotech Services pvt. Ltd.] | Aug 2019-july2020 |<br><br>
-|Front-End Developer| [@Dewhive Enterprises Pvt. Ltd.] | Now Working|
+
 
 
