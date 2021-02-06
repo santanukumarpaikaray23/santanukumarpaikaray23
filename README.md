@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://twitter.com/PaikaraySantanu"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/santanu-kumar-paikaray-989a181a6/"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UC44Igj1mSwOYsfQo6VUfr9g"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/Yt.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UC44Igj1mSwOYsfQo6VUfr9g"><img height="30" src="https://raw.githubusercontent.com/Mr-PerFectt/Mr-PerFectt/master/img/social/Yt.png">Please visit my channer</a>&nbsp;&nbsp;
 
   
 
