@@ -56,7 +56,7 @@
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 
-|Angular Developer | [@Dixit Infotech Services pvt. Ltd.] | Aug 2019-july2020 |<br><br>
+|Angular Developer | [@SheerDrive pvt. Ltd.] |January 2021 to March 2021  |<br><br>
 |Business Associate| [TATA CONSULTANCY SERVICES] |Currently Working|
 
 
