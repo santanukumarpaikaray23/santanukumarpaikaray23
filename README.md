@@ -1,5 +1,5 @@
 ﻿
-<h1 align="center"> Welcome to my GitHub 👨‍💻❤️</h1>
+<h1 align="center"> Welcome to my GitHub 👨‍💻</h1>
   
 <!--
 [![HitCount](http://hits.dwyl.com/Mr-PerFectt/Mr-PerFectt.svg)](http://hits.dwyl.com/Mr-PerFectt/Mr-PerFectt)
