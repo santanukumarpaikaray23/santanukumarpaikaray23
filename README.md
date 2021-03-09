@@ -57,6 +57,7 @@
 | :-: | :-: | :-: |
 
 |Angular Developer | [@Dixit Infotech Services pvt. Ltd.] | Aug 2019-july2020 |<br><br>
+|Business Associate| [TATA CONSULTANCY SERVICES] |Currently Working|
 
 
 
